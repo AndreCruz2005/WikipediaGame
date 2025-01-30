@@ -17,7 +17,7 @@ If there is an nth link, it will fetch the link's HTML and repeat the scraping p
 ## Getting started
 
 #### Requirements:
-- The most recent Python version
+- The latest [Python version](https://www.python.org/downloads/)
 
 #### Clone the repository and access its directory through the terminal
 ```sh
