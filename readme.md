@@ -1,6 +1,6 @@
 # Wikipedia Game
 
-A simple, fun game that explores Wikipedia by following links in the article's body. Try to get the longest link chain without running into a loop or a page with too few links!
+A simple, fun game that explores English Wikipedia by following links in the article's body. Try to get the longest link chain without running into a loop or a page with too few links!
 
 <div align="center">
 <img src="demo.png">
